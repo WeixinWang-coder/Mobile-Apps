@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628623580278",
+    "firebase_url": "https://hypergaragesale-weixin-lynn-default-rtdb.firebaseio.com",
+    "project_id": "hypergaragesale-weixin-lynn",
+    "storage_bucket": "hypergaragesale-weixin-lynn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628623580278:android:6b98409dc89ba33a82d357",
+        "android_client_info": {
+          "package_name": "com.neu.hypergaragesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628623580278-in31370lugd51850c68m3sses6ntf6li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjWXZF-5G0YHtQJW-lqXVdREEMC5XwcH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628623580278-in31370lugd51850c68m3sses6ntf6li.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628623580278-15fcos15b374rmljvtlaqonp4dsatcm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neu.hypergaragesale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

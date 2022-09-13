@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>628623580278-15fcos15b374rmljvtlaqonp4dsatcm6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.628623580278-15fcos15b374rmljvtlaqonp4dsatcm6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBe6h7GTOXjMkoypp2RWf2s0dFK94QYYjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628623580278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.neu.hypergaragesale</string>
+	<key>PROJECT_ID</key>
+	<string>hypergaragesale-weixin-lynn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hypergaragesale-weixin-lynn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628623580278:ios:1b2fbfb4e86ed09f82d357</string>
+	<key>DATABASE_URL</key>
+	<string>https://hypergaragesale-weixin-lynn-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
